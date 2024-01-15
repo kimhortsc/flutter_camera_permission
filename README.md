@@ -1,4 +1,4 @@
-# flutter_camera_2
+# flutter camera permission
 
 A new Flutter project.
 
